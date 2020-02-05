@@ -1,0 +1,17 @@
+h1 {
+ color: darkblue; font-size:
+ ; text-decoration: underline;
+ }
+ body  {
+   background-image: url("https://static.vecteezy.com/system/resources/previews/000/518/411/original/abstract-blue-background-dark-curve-005-vector.jpg");
+ }
+h1 {
+  background-color: #bca0fa;
+  text-align: center;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+h2 {
+  text-shadow: 2px 2px 5px purple;
+}
